@@ -1,11 +1,5 @@
 # Hi, I'm Katelyn 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active%20Researcher-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Data%20Mining-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Philippines-red?style=flat-square" />
-</p>
-
 <!--
 **KateC08/KateC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
