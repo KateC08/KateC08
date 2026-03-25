@@ -2,8 +2,14 @@
 
 # **Hi, I'm Katelyn 👋**
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&hide_border=true&stroke=00000000)
+
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Environmental%20Tech-green?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Data%20Mining-blue?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <!--
 **KateC08/KateC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
