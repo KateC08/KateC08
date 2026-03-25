@@ -1,6 +1,8 @@
 <div align="center">
 
-# **Hi, I'm Katelyn 👋**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=College+Student;IoT+Developer;Data+Mining+Enthusiast;Creator+of+EcoProtean+🌿)](https://git.io/typing-svg)
+
+---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&hide_border=true&stroke=00000000)
 
