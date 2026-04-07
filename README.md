@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />    
 </p>
 
-</div>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&v=20260327)
+
+</div>
 
 <!--
 **KateC08/KateC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
