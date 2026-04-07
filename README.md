@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />    
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&v=20260327)
 </div>
 
 <!--
