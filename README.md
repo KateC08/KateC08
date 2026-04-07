@@ -18,6 +18,7 @@
 </p>
 
 </div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&v=20260327)
 
 <!--
 **KateC08/KateC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
