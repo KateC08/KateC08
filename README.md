@@ -13,13 +13,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-**IoT & Hardware**
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensors-DHT11%2FMovement-green?style=for-the-badge" />
-</p>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&v=20260327)
 
 </div>
