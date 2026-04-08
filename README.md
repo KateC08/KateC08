@@ -20,14 +20,6 @@
   <img src="https://img.shields.io/badge/Sensors-DHT11%2FMovement-green?style=for-the-badge" />
 </p>
 
-**Web & Database**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232b?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KateC08&theme=tokyonight&v=20260327)
 
 </div>
