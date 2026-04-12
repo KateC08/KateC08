@@ -2,7 +2,6 @@
   
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Katelyn" alt="Hi, I'm Katelyn" />
 ---
-
 ### **💻 Tech Stack & Tools**
 
 **Frontend & Web**
