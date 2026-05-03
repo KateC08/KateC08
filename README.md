@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-
 </div>
 <!--
 **KateC08/KateC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
