@@ -1,6 +1,8 @@
 <div align="center">
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Katelyn" alt="Hi, I'm Katelyn" />
+
+
 ---
 </div>
 <!--
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ..- ⚡ Fun fact: ...
 -->
+
